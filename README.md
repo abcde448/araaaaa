@@ -1,2 +1,6 @@
-# araaaaa
-i like it
+Fianancial Sentiment Analysis...
+[ Built a deep learning model using BiLSTM with Attention to classify financial text sentiment. Preprocessed and analyzed data, optimized training, and evaluated performance using key metrics. Enabled accurate sentiment insights for financial decision-making using Python, TensorFlow, and NLP tools. ]
+
+
+Diabates Prediction.....
+[ Predicted diabetes presence using patient features like Glucose, Insulin, Age, and BMI. Performed data cleaning, visualization, and statistical analysis using Python libraries. Compared multiple ML models based on accuracy and classification reports to identify the best-performing algorithm. ]
